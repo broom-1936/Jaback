@@ -207,4 +207,4 @@ JaBack is offered as a full free version with all features and updates included.
 Take control of your data security today! Download JaBack now and ensure your files are always protected.
 
 ---
-**Last updated:** 2026-11-05 19:31:28 UTC
+**Last updated:** 2026-11-06 00:45:48 UTC
